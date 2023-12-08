@@ -1,5 +1,8 @@
 hi this is a student from msrit
+<<<<<<< HEAD
 modified by dev1
 devvv1111
+=======
 modified by dev2
 devvvv22222
+>>>>>>> 77a63f1 (modified by dev2)
